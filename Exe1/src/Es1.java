@@ -10,7 +10,7 @@ public class Es1 {
 		
 		String input = in.readLine("Inserisci una stringa: ");
 		
-		out.println("La stringa inserita è: " + input);
+		out.println("La stringa inserita ï¿½: " + input);
 	}
 
 }
